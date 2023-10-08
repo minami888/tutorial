@@ -1,2 +1,3 @@
 saru git
 tutorial2 add
+pull リモートリポジトリの内容取得
